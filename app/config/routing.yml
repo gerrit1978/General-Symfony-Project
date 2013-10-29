@@ -1,0 +1,4 @@
+hedge_comm_demo:
+    resource: "@HedgeCommDemoBundle/Resources/config/routing.yml"
+    prefix:   /
+
